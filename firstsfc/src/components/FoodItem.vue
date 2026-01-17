@@ -9,8 +9,8 @@
 export default {
   data() {
     return {
-      name: 'Lansones and Banana',
-      message: 'I like lansones and banana!!'
+      name: 'Apples',
+      message: 'I like apples'
     }
   }
 };
