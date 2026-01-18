@@ -9,7 +9,7 @@
 export default {
   data() {
     return {
-      name: 'banana',
+      name: 'Banana',
       message: 'I like banana!!'
     }
   }
