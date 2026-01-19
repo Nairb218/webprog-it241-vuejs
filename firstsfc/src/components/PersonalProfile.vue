@@ -1,9 +1,8 @@
 <template>
-
 <div class="container">
-    <header> <h1>My Profile Web page </h1> </header>
+    <header> <h1>My Profile Web page </h1>  </header>
     <main>
-        <section class="main-content">
+      <section class="main-content">
             <div>About Me<br>
             Musika ang buhay na aking tinataglay, ito rin ang dahilan kung ba't ako naglalakbay.<br></div>
             <div>Education/Achievements: <br>
@@ -20,11 +19,11 @@
             Have time and financial freedom<br>
             Be able to produce my own music<br></div>
         </section>
-        <aside class="side-bar">
+        <aside class="sidebar">
             </aside>
-        </main>
-        <footer> Asia Pacific College </footer>
-    </div>
+          </main>
+          <footer> Asia Pacific College </footer>
+        </div>
 </template>
 
 <script></script>
